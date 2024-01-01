@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SurajKhonde
-# JavaScript Full Stack Project
+# JavaScript Full Stack Developer(MERN)
 
 Welcome to my JavaScript full-stack project repository! 🚀 In this repository, I showcase my expertise in building robust and dynamic web applications using a variety of technologies.
 
