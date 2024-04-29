@@ -1,11 +1,16 @@
 - 👋 Hi, I’m @SurajKhonde
-# JavaScript Full Stack Developer(MERN)
+# MERN Stack Developer
+# About Me
+Hello, I'm Suraj Khonde, hailing from India. I graduated with a degree in mechanical engineering back in 2018. Following my graduation, I embarked on a three-year journey within the financial domain, exploring various roles and responsibilities.
+# current
+Recently, I transitioned into the realm of MERN stack development, joining Avrish Technology. As a MERN stack developer, I've had the opportunity to work on both the client and server sides of web development. Throughout my journey, I've tackled challenges such as optimizing API calls to reduce server costs for clients. Moreover, I've focused on enhancing user experiences by creating more intuitive, interactive, and responsive client interfaces.
 
-Welcome to my JavaScript full-stack project repository! 🚀 In this repository, I showcase my expertise in building robust and dynamic web applications using a variety of technologies.
+One of the strengths I bring to the table is my ability to comprehend and work with code from both ends of the spectrum. This proficiency enables me to contribute to the development of efficient web applications, ensuring end-to-end security and cost-effectiveness.
 
-## About Me
+In addition to my technical expertise, I'm currently working on a revolutionary product designed specifically for developers, aimed at providing a comprehensive solution to all career-related challenges. This project, called SkillForge, is geared towards empowering developers to overcome obstacles and achieve their professional goals through mentorship, collaboration, and skill development. SkillForge serves as a platform where developers can connect, learn, and grow, all in one place.
 
-I am a passionate developer with a proven track record of delivering over 15 projects using vanilla JavaScript. My journey extends beyond the basics, as I have also delved into React, crafting more than 3 projects that showcase my proficiency in building modern and responsive user interfaces.
+I'm passionate about leveraging technology to solve real-world problems and am always eager to take on new challenges in the ever-evolving world of web development.
+
 
 ### Frontend Technologies
 
