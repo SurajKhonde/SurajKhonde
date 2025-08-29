@@ -49,12 +49,18 @@ Here are some of my highlighted projects:
 
 ## 📊 GitHub Stats  
 
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkhonde&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkhonde&layout=compact&theme=radical)  
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajkhonde&show_icons=true&theme=solarized_light)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkhonde&layout=compact&theme=solarized_light)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajkhonde&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajkhonde&theme=radical)
+
+
  
 ---
+## 📬 Contact Me  
+- 📧 Email: [surajrkhonde@gmail.com](mailto:surajrkhonde@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/surajrkhonde/](https://www.linkedin.com/in/surajrkhonde/)  
+- 🌐 Portfolio: [https://surajkhonde.github.io/portfolio/](https://surajkhonde.github.io/portfolio/)
+- 📝  Blogs:     [https://medium.com/@surajrkhonde](https://medium.com/@surajrkhonde)  
+
+---
 ✨ Thanks for visiting my profile! Always open to collaboration and new opportunities 🚀 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurajKhonde&theme=radical)   
-
