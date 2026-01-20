@@ -53,19 +53,42 @@ What people usually get from me on a project:
     <th align="left">What it shows</th>
     <th align="left">Stack</th>
   </tr>
+<tr>
+    <td>
+      <b>Chatty (Backend Monolith)</b><br/>
+      <a href="https://github.com/SurajKhonde/Chatty_backend_monolith">Repo</a><br/>
+      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/Chatty_backend_monolith?style=social" />
+    </td>
+    <td>
+      Monolith backend design with clean REST APIs, auth, and real-time-ready patterns for a chat-style product.
+    </td>
+    <td>Node.js · Express · MongoDB · Socket.IO</td>
+  </tr>
 
   <tr>
     <td>
-      <b>FlickFlair (server-side)</b><br/>
-      <a href="https://github.com/SurajKhonde/flickflair-serverside">Repo</a> ·
-      <a href="https://flickflair-serverside.vercel.app">Live</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/flickflair-serverside?style=social" />
+      <b>jobber-shared (NPM Package)</b><br/>
+      <a href="https://github.com/SurajKhonde/jobber-shared">Repo</a><br/>
+      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/jobber-shared?style=social" />
     </td>
     <td>
-      API-first backend structure, auth flows, and performance-minded endpoints (caching-ready patterns).
+      Shared utilities/contracts for services (validation, types, shared errors) — published as an NPM package.
     </td>
-    <td>Node.js · Express · MongoDB</td>
+    <td>JavaScript/TypeScript · Node.js · NPM</td>
   </tr>
+
+  <tr>
+    <td>
+      <b>Freelanzio (Microservices – WIP)</b><br/>
+      <a href="https://github.com/SurajKhonde/Freelanzio">Repo</a><br/>
+      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/Freelanzio?style=social" />
+    </td>
+    <td>
+      Microservice-based architecture in progress — service boundaries, messaging patterns, and scalable design approach.
+    </td>
+    <td>Node.js · Microservices · Docker</td>
+  </tr>
+
 
   <tr>
     <td>
@@ -78,65 +101,18 @@ What people usually get from me on a project:
     </td>
     <td>React · Node.js · MongoDB · Cloudinary</td>
   </tr>
-
   <tr>
     <td>
-      <b>VibeBox</b><br/>
-      <a href="https://github.com/SurajKhonde/VibeBox">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/VibeBox?style=social" />
+      <b>Engineering Handbook (Interview Prep)</b><br/>
+      <a href="https://github.com/SurajKhonde/Engineering_Handbook">Repo</a><br/>
+      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/Engineering_Handbook?style=social" />
     </td>
     <td>
-      Real-time communication basics + auth + responsive UI (WebSocket-style app behavior).
+      Structured interview preparation notes (DSA, backend, system design, SQL) with clear explanations and examples.
     </td>
-    <td>MERN · WebSockets</td>
+    <td>Docs · Notes · Interview Prep</td>
   </tr>
 
-  <tr>
-    <td>
-      <b>waterMarkremover</b><br/>
-      <a href="https://github.com/SurajKhonde/waterMarkremover">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/waterMarkremover?style=social" />
-    </td>
-    <td>
-      Image processing pipeline: background removal / watermark removal / resizing; storage-friendly approach.
-    </td>
-    <td>MERN · Node.js · Sharp · AWS</td>
-  </tr>
-
-  <tr>
-    <td>
-      <b>ImageConvertor</b><br/>
-      <a href="https://github.com/SurajKhonde/ImageConvertor">Repo</a>
-    </td>
-    <td>
-      Utility app: upload → convert (png/jpg/webp) → download; server-side processing + cleanup.
-    </td>
-    <td>React · Node.js · Sharp</td>
-  </tr>
-
-  <tr>
-    <td>
-      <b>SyncEdage</b><br/>
-      <a href="https://github.com/SurajKhonde/syncEdage">Repo</a>
-    </td>
-    <td>
-      Notes app foundations with typical CRUD patterns.
-    </td>
-    <td>MERN</td>
-  </tr>
-
-  <tr>
-    <td>
-      <b>Portfolio</b><br/>
-      <a href="https://surajkhonde.github.io">Live</a> ·
-      <a href="https://github.com/SurajKhonde/surajkhonde.github.io">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/surajkhonde.github.io?style=social" />
-    </td>
-    <td>
-      Simple, fast personal site for showcasing projects.
-    </td>
-    <td>Web</td>
-  </tr>
 </table>
 
 ---
