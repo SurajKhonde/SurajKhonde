@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/surajrkhonde/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-surajrkhonde-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:surajrkhonde@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-surajrkhonde%40gmail.com-EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://surajkhonde.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-111827?logo=vercel&logoColor=white" /></a>
+  <a href="https://surajkhonde.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-111827?logo=vercel&logoColor=white" /></a>
   <a href="https://medium.com/@surajrkhonde"><img alt="Medium" src="https://img.shields.io/badge/Blogs-Medium-000000?logo=medium&logoColor=white" /></a>
 </p>
 
