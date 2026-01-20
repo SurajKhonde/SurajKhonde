@@ -125,16 +125,27 @@ What people usually get from me on a project:
 
 ---
 
-## 🗺️ One small architecture (safe Mermaid)
+## 🗺️ One small architecture
 
 <details>
   <summary><b>Click to view</b></summary>
 
 ```mermaid
 flowchart LR
-  FE["React Client"] --> API["Node/Express API"]
-  API --> DB[(MongoDB)]
-  API --> CACHE[(Redis Cache)]
+FE["Frontend (React)"] -->|"HTTP REST"| API["Express API (port 5000)"]
+FE -->|"Socket.IO"| API
+
+API -->|"Read/Write"| Mongo[(MongoDB)]
+API -->|"Cache reads/writes"| Redis[(Redis)]
+
+API -->|"Enqueue jobs"| Bull["Bull queues (Redis)"]
+Bull -->|"Process jobs"| Workers["Background workers"]
+Workers -->|"DB writes"| Mongo
+Workers -->|"Emit realtime"| SIO["Socket.IO server"]
+Workers -->|"Send email"| Email["Email (Ethereal dev / SendGrid prod)"]
+
+API -->|"Uploads"| Cloudinary[(Cloudinary)]
+Workers -->|"Uploads metadata"| Mongo
 ```
 
 </details>
