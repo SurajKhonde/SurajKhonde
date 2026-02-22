@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Suraj%20Khonde&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20(MERN)%20Developer%20%7C%20Node.js%20%7C%20React&descAlign=50&descAlignY=55&color=0:0ea5e9,100:22c55e" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Suraj%20Khonde&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20(Node.js)%20%7C%20Scalable%20APIs%20%7C%20Redis%20%7C%20SQL&descAlign=50&descAlignY=55&color=0:0ea5e9,100:22c55e" alt="header" />
 </p>
 
 <p align="center">
@@ -11,117 +10,99 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=MERN+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;I+enjoy+debugging%2C+optimizing%2C+and+shipping+clean+features;Currently%3A+System+Design+%2B+DSA+%2B+SQL+Query+Tuning" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+Node.js+%7C+Distributed+Systems;Scalable+APIs+%7C+Caching+%7C+Async+Processing;Production+Debugging+%26+Performance+Mindset;Currently%3A+System+Design+Deep+Dive" alt="typing" />
 </p>
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
-I’m a **Full‑Stack (MERN) Developer with 3+ years of experience** building production web apps.
+Backend Engineer with 3+ years of experience building and operating production systems using Node.js.
 
-What people usually get from me on a project:
-- 🧩 **Ownership**: take a feature from requirements → implementation → release → fixes.
-- 🛠️ **Debugging**: reproduce issues fast, trace root cause across FE/BE, ship safe patches.
-- ⚡ **Performance**: query tuning, caching (Redis), and clean API design to reduce latency.
-- ☁️ **Practical cloud**: media handling with S3/Cloudinary-style flows to save bandwidth + cost.
+### What I focus on
+- Designing scalable REST APIs  
+- Structuring asynchronous workflows  
+- Implementing reliable background processing  
+- Database optimization (MongoDB / MySQL)  
+- Caching strategies using Redis  
+
+### How I work
+I take end-to-end ownership of backend components — from architecture and implementation to production debugging and performance tuning.
+
+I prioritize clean design, predictable system behavior, and long-term maintainability.
+
+While I can contribute across the stack when needed, my strength lies in backend architecture, scalability, and building stable, production-ready services.
+---
+## 🧰 Core Tech Stack
+
+**Backend**
+- Node.js · Express
+- MongoDB · MySQL
+- Redis (caching & async coordination)
+- REST APIs · Background Jobs · WebSockets
+
+**Infrastructure & Dev**
+- Docker · AWS (EC2)
+- Git · Linux
+- Postman
+
+**Frontend (when required)**
+- React · Next.js
+- TailwindCSS
+---
+
+## 🚀 Selected Projects
+
+### 🔹 Chatty – Backend Monolith
+**Node.js · Express · MongoDB · Socket.IO**
+
+Backend-first chat system demonstrating clean API design, authentication flow, and real-time communication patterns. Structured for scalability and production-style organization.
+
+[Repository](https://github.com/SurajKhonde/Chatty_backend_monolith)
 
 ---
 
-## 🧰 Tech I use
+### 🔹 Freelanzio – Microservices (WIP)
+**Node.js · Docker · Service Boundaries**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,aws,git&perline=12" alt="skills" />
-</p>
+Work-in-progress microservice architecture exploring service separation, async communication patterns, and scalable system design concepts.
 
-<p align="center">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
-</p>
+[Repository](https://github.com/SurajKhonde/Freelanzio)
 
 ---
 
-## 🚀 Featured projects
+### 🔹 jobber-shared (NPM Package)
+**Node.js · TypeScript · Shared Contracts**
 
-> Picked from my public repos — focused on real-world backend + full-stack patterns.
+Reusable shared utilities package for validation, error handling, and service contracts — designed to improve consistency across services.
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">What it shows</th>
-    <th align="left">Stack</th>
-  </tr>
-<tr>
-    <td>
-      <b>Chatty (Backend Monolith)</b><br/>
-      <a href="https://github.com/SurajKhonde/Chatty_backend_monolith">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/Chatty_backend_monolith?style=social" />
-    </td>
-    <td>
-      Monolith backend design with clean REST APIs, auth, and real-time-ready patterns for a chat-style product.
-    </td>
-    <td>Node.js · Express · MongoDB · Socket.IO</td>
-  </tr>
-
-  <tr>
-    <td>
-      <b>jobber-shared (NPM Package)</b><br/>
-      <a href="https://github.com/SurajKhonde/jobber-shared">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/jobber-shared?style=social" />
-    </td>
-    <td>
-      Shared utilities/contracts for services (validation, types, shared errors) — published as an NPM package.
-    </td>
-    <td>JavaScript/TypeScript · Node.js · NPM</td>
-  </tr>
-
-  <tr>
-    <td>
-      <b>Freelanzio (Microservices – WIP)</b><br/>
-      <a href="https://github.com/SurajKhonde/Freelanzio">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/Freelanzio?style=social" />
-    </td>
-    <td>
-      Microservice-based architecture in progress — service boundaries, messaging patterns, and scalable design approach.
-    </td>
-    <td>Node.js · Microservices · Docker</td>
-  </tr>
-
-
-  <tr>
-    <td>
-      <b>MovieReview</b><br/>
-      <a href="https://github.com/SurajKhonde/MovieReview">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/MovieReview?style=social" />
-    </td>
-    <td>
-      Full-stack flow with media upload + review features; clean UI + server integration.
-    </td>
-    <td>React · Node.js · MongoDB · Cloudinary</td>
-  </tr>
-  <tr>
-    <td>
-      <b>Engineering Handbook (Interview Prep)</b><br/>
-      <a href="https://github.com/SurajKhonde/Engineering_Handbook">Repo</a><br/>
-      <img alt="stars" src="https://img.shields.io/github/stars/SurajKhonde/Engineering_Handbook?style=social" />
-    </td>
-    <td>
-      Structured interview preparation notes (DSA, backend, system design, SQL) with clear explanations and examples.
-    </td>
-    <td>Docs · Notes · Interview Prep</td>
-  </tr>
-
-</table>
+[Repository](https://github.com/SurajKhonde/jobber-shared)
 
 ---
 
-## 🧠 What I'm sharpening right now
+### 🔹 MovieReview
+**React · Node.js · MongoDB**
 
-- System design fundamentals (scalability, caching, queues)
-- SQL / MySQL: indexing, query plans, pagination, transactions
-- DSA practice for interviews
+Full-stack application with media upload, authentication, and structured API integration. Demonstrates clean client-server interaction and backend data handling.
+
+[Repository](https://github.com/SurajKhonde/MovieReview)
+
+---
+
+### 🔹 Engineering Handbook
+
+Structured backend, system design, SQL, and DSA notes focused on building strong engineering fundamentals.
+
+[Repository](https://github.com/SurajKhonde/Engineering_Handbook)
+
+---
+
+## 🧠 Currently Strengthening
+
+- Scalable system design (caching, async flows, load patterns)
+- SQL optimization (indexing, execution plans, pagination)
+- Distributed system fundamentals
+- Data structures & algorithms
 
 ---
 
@@ -169,9 +150,9 @@ Workers -->|"Uploads metadata"| Mongo
 
 ## 🤝 Open to
 
-- Full‑Stack (MERN) roles
-- Backend (Node.js/Express) roles
-- Performance + debugging heavy work
+- Backend Engineering (Node.js) opportunities  
+- Scalable API & distributed system development  
+- Performance-critical and debugging-intensive environments
 
 ---
 
@@ -179,7 +160,7 @@ Workers -->|"Uploads metadata"| Mongo
 
 - Email: **surajrkhonde@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/surajrkhonde/
-- Portfolio: https://surajkhonde.github.io/
+- Portfolio: https://surajkhonde.github.io
 - Medium: https://medium.com/@surajrkhonde
 
 <p align="center">
